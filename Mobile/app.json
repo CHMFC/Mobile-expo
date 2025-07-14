@@ -1,0 +1,19 @@
+{
+  "name": "Mobile",
+  "displayName": "Mobile",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "49eb5b58-a0f2-41d1-8197-ddf0f1b37f26"
+      }
+    },
+    "plugins": [
+      [
+        "@react-native-google-signin/google-signin",
+        {
+          "iosUrlScheme": "com.googleusercontent.apps.698611291998-6c9bsgsmiluinjveif5v6ke1b8p81l5o"
+        }
+      ]
+    ]
+  }
+}

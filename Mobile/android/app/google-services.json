@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449454344126",
+    "project_id": "sociallogin-fidelize",
+    "storage_bucket": "sociallogin-fidelize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449454344126:android:ed6719885622f157c41bef",
+        "android_client_info": {
+          "package_name": "com.gerens.fidelizeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449454344126-6gr8e1elda3hs7ebht35v3lso73vm4ei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gerens.fidelizeapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "449454344126-27h7nh0qujd1h5uch9egg65ifcj908gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv0VNF2-7MmlVirkGyQdQZ55sZkwJpGQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449454344126-27h7nh0qujd1h5uch9egg65ifcj908gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
